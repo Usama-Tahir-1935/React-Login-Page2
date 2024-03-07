@@ -1,0 +1,28 @@
+.login {
+    width: 90%;
+    max-width: 40rem;
+    margin: 2rem auto;
+    padding: 2rem;
+  }
+  
+  .actions {
+    text-align: center;
+    padding-top: 2%;
+  }
+ 
+  .col {
+    flex: 1 0 0%;
+    color: aliceblue;
+  }
+
+  .ac {
+    color: blue;
+    text-decoration: none;
+    margin-left: 77%;
+  }
+
+  .ac:hover {
+    color: red; 
+    text-decoration: none;
+  }
+  
